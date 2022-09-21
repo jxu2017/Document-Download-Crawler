@@ -9,4 +9,8 @@ https://www.selenium.dev/documentation/webdriver/
 ### Set up
 Set up chromedriver.exe locally and test it using some sample codes.
 ### Download all the URLs of files needed
-run 
+run getURLofFiles.py
+### Download all the files 
+run download.py
+### Merge files
+run testEtress.py
